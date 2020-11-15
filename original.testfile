@@ -1,0 +1,2 @@
+echo 'asadmin do-something --properties ServerName={{MYSQL_HOST}}:Password={{MYSQL_PASSWORD}}:User={{MYSQL_USER}}:DatabaseName={{MYSQL_DATABASE}}:Port={{MYSQL_PORT}} mysql'
+echo 'asadmin do-something-else --prop {{JDBC_RESOURCE_NAME}} mysql'
